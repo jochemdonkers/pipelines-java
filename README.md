@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/NL-CI/Test%20project%20-%20how%20to%20use%20Azure%20DevOps/_apis/build/status/jochemdonkers.pipelines-java?branchName=master)](https://dev.azure.com/NL-CI/Test%20project%20-%20how%20to%20use%20Azure%20DevOps/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
